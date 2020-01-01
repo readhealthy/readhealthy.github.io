@@ -1,0 +1,9 @@
+ul.sources {
+    list-style-type: none;
+    padding: 0;
+}
+
+.anchor {
+    padding-top: 50px;
+    margin-top: -50px;
+}
