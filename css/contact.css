@@ -11,3 +11,13 @@ body {
 .footer {
     flex-shrink: 0;
 }
+h1 {
+    color: #228fcf;
+}
+div {
+    color: #545454;
+}
+h3 {
+    color: #5aba4a;
+}
+
