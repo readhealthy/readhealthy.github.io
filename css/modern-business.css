@@ -93,10 +93,16 @@ div {
     border-top: 1px solid #228fcf;
     border-bottom: 1px solid #228fcf;
 }
-.container1 {
+.py-5 {
     border-top: 1px solid #228fcf;
 }
 .m-0 {
     color: #228fcf;
     font-family: 'Lato', sans-serif;
+}
+.btn {
+    color: #228fcf;
+    font-family: 'Lato', sans-serif;
+    background-color: #ffffff;
+    border: 1px solid #228fcf;
 }
