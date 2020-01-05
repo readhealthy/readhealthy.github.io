@@ -10,7 +10,7 @@
  */
 body {
   padding-top: 56px;
-    background: #fffff4 !important;
+    background: #f5f5f5 !important;
 }
 .carousel-item {
   height: 65vh;
@@ -78,9 +78,25 @@ b.mycolor{
     color: #228fcf;/*Blue*/
 }
 .navbar{
-    border-bottom: .5px solid #f2f7fb;
+    border-bottom: 1px solid #228fcf; /*Changed to blue from color, and made thicker*/
     border-top: .5px solid #f2f7fb;
 }
 div {
     color: #000000;
+}
+.footer {
+    border-top: 1px solid #228fcf;
+    border-bottom: 1px solid #228fcf;
+}
+.border {
+    color: #fd7e14;
+    border-top: 1px solid #228fcf;
+    border-bottom: 1px solid #228fcf;
+}
+.container1 {
+    border-top: 1px solid #228fcf;
+}
+.m-0 {
+    color: #228fcf;
+    font-family: 'Lato', sans-serif;
 }
